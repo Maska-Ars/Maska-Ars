@@ -2,7 +2,7 @@
   <div align="center">
     <picture>
     <img
-      src="https://www.codewars.com/users/Maska_of_darkness/badges/large"
+      src="https://www.codewars.com/users/Maska-Ars/badges/large"
       />
     </picture>
   </div>
