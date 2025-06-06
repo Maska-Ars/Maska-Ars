@@ -6,7 +6,7 @@
       />
     </picture>
   </div>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=nkonshin&label=Profile%20Visits&style=for-the-badge" />
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Maska-Ars&label=Profile%20Visits&style=for-the-badge" />
 </div>
 
 <div id="stats" align="center" style="display: flex; flex-direction: column;">
